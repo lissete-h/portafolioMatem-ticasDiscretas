@@ -1,6 +1,7 @@
 <h1 align="center">📘 Portafolio de Matemáticas Discretas 📘</h1>
 
-**Estudiante:** Evelyn Aguinsaca  
+**Estudiante:** Evelyn Lissette Aguinsaca Iñeguez  
+**Docente:** Mario Enrique Cueva Hurtado 
 **Institución:** Universidad Nacional de Loja  
 **Carrera:** Ingeniería en Computación  
 
