@@ -29,7 +29,7 @@ Aquí puedes acceder a los documentos en Google Drive:
 | Tipo | Actividad | Enlace |
 | :--- | :--- | :--- |
 | **ACD** | Actividad de Contacto 1 | [Ver en Drive](https://drive.google.com/drive/folders/1kt2pQe4fFXSyEoQX320yaD2bBRN7XIDH?usp=drive_link) |
-| | Actividad de Contacto 2 | [Ver en Drive](TU_LINK_AQUÍ) |
+| | Actividad de Contacto 2 | [Ver en Drive](https://drive.google.com/drive/folders/1gfD67mRk_BVfTsA_eKiaNF9rODWI0r3O?usp=drive_link) |
 | --- | --- | --- |
 | **APE** | Trabajo Práctico 1 | [Ver en Drive](https://drive.google.com/file/d/1bLIx8ddvQ1ojynKYNZgfFwy1Gxujtclt/view?usp=drive_link) |
 | | Trabajo Práctico 2 | [Ver en Drive](TU_LINK_AQUÍ) |
