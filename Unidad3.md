@@ -32,12 +32,12 @@ Aquí puedes acceder a los documentos en Google Drive:
 | | Actividad de Contacto 2 | [Ver en Drive](https://drive.google.com/drive/folders/1gfD67mRk_BVfTsA_eKiaNF9rODWI0r3O?usp=drive_link) |
 | --- | --- | --- |
 | **APE** | Trabajo Práctico 1 | [Ver en Drive](https://drive.google.com/file/d/1bLIx8ddvQ1ojynKYNZgfFwy1Gxujtclt/view?usp=drive_link) |
-| | Trabajo Práctico 2 | [Ver en Drive](TU_LINK_AQUÍ) |
+| | Trabajo Práctico 2 | [Ver en Drive](https://drive.google.com/file/d/1LnYTY4kid0mhfM_4NQMxQ3WV9b10Vg9r/view?usp=drive_link) |
 | --- | --- | --- |
 | **AA** | Actividad Autónoma 1 | [Ver en Drive](https://drive.google.com/file/d/1ljThzRU88zQv2UN7AbhjrTEqxloqKYBk/view?usp=drive_link) |
 | | Actividad Autónoma 2 | [Ver en Drive](https://drive.google.com/file/d/1x4_X1CoqmZWlAx2gxnBGa8gSK1o0GLvQ/view?usp=drive_link) |
 | --- | --- | --- |
-| **ABP** | Aprendizaje Basado en Problemas 1 | [Ver en Drive](TU_LINK_AQUÍ) |
+| **ABP** | Aprendizaje Basado en Problemas 1 | [Ver en Drive](https://drive.google.com/drive/folders/1Qwpo8LJXH4g2uMlGaYcbXjfeumANTutM?usp=drive_link) |
 
 ---
 ---
