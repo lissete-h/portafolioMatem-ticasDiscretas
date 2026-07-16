@@ -1,6 +1,8 @@
 <h1 align="center">📘 Portafolio de Matemáticas Discretas 📘</h1>
 
 **Estudiante:** Evelyn Lissette Aguinsaca Iñeguez  
+**Docente:** Mario Enrique Cueva Hurtado  
+**Curso:** Primer Ciclo "A" - Ingeniería en Computación  
 **Institución:** Universidad Nacional de Loja  
 **Carrera:** Ingeniería en Computación  
 
@@ -18,5 +20,3 @@ Este portafolio digital presenta todas las actividades trabajadas en la asignatu
 ### 📖 [Unidad 2](./Unidad2.md)
 
 ### 📖 [Unidad 3](./Unidad3.md)
-
----
