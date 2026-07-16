@@ -35,7 +35,7 @@ Aquí puedes acceder a los documentos en Google Drive:
 | | Trabajo Práctico 2 | [Ver en Drive](TU_LINK_AQUÍ) |
 | --- | --- | --- |
 | **AA** | Actividad Autónoma 1 | [Ver en Drive](https://drive.google.com/file/d/1ljThzRU88zQv2UN7AbhjrTEqxloqKYBk/view?usp=drive_link) |
-| | Actividad Autónoma 2 | [Ver en Drive](TU_LINK_AQUÍ) |
+| | Actividad Autónoma 2 | [Ver en Drive](https://drive.google.com/file/d/1x4_X1CoqmZWlAx2gxnBGa8gSK1o0GLvQ/view?usp=drive_link) |
 | --- | --- | --- |
 | **ABP** | Aprendizaje Basado en Problemas 1 | [Ver en Drive](TU_LINK_AQUÍ) |
 
